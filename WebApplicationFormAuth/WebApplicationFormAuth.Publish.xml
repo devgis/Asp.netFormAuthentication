@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="11/15/2017 09:55:21" />
+    <file relUrl="bin/WebApplicationFormAuth.pdb" publishTime="11/15/2017 09:53:37" />
+    <file relUrl="bin/WebApplicationFormAuth.dll" publishTime="11/15/2017 09:53:38" />
+    <file relUrl="Login.aspx" publishTime="11/15/2017 09:37:39" />
+    <file relUrl="Index.aspx" publishTime="11/15/2017 09:48:28" />
+  </publishProfile>
+</publishData>
